@@ -1,0 +1,1 @@
+xcopy "D:\IBI\Install\Redist\lib-x64\*.*"  "C:\Windows\System32\inetsrv\" /s /e /c /Y
